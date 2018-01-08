@@ -1,0 +1,16 @@
+/home/tqi_udifab03/Myproject/src/main/java/com/study/oauth2/config/AdditionalWebConfig.java
+/home/tqi_udifab03/Myproject/src/main/java/com/study/oauth2/service/impl/GenericServiceImpl.java
+/home/tqi_udifab03/Myproject/src/main/java/com/study/oauth2/service/GenericService.java
+/home/tqi_udifab03/Myproject/src/main/java/com/study/oauth2/config/ResourceServerConfig.java
+/home/tqi_udifab03/Myproject/src/main/java/com/study/oauth2/repository/RoleRepository.java
+/home/tqi_udifab03/Myproject/src/main/java/com/study/oauth2/repository/PermissionRepositoy.java
+/home/tqi_udifab03/Myproject/src/main/java/com/study/oauth2/repository/UserRepository.java
+/home/tqi_udifab03/Myproject/src/main/java/com/study/oauth2/service/impl/AppUserDetailsService.java
+/home/tqi_udifab03/Myproject/src/main/java/com/study/oauth2/SpringbootJwtApplication.java
+/home/tqi_udifab03/Myproject/src/main/java/com/study/oauth2/domain/Role.java
+/home/tqi_udifab03/Myproject/src/main/java/com/study/oauth2/config/SecurityConfig.java
+/home/tqi_udifab03/Myproject/src/main/java/com/study/oauth2/domain/Permission.java
+/home/tqi_udifab03/Myproject/src/main/java/com/study/oauth2/domain/User.java
+/home/tqi_udifab03/Myproject/src/main/java/com/study/oauth2/config/DatasourceConfig.java
+/home/tqi_udifab03/Myproject/src/main/java/com/study/oauth2/config/AuthorizationServerConfig.java
+/home/tqi_udifab03/Myproject/src/main/java/com/study/oauth2/controller/ResourceController.java
